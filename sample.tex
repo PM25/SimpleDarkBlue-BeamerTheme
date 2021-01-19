@@ -2,7 +2,7 @@
 %	PACKAGES AND THEMES
 %----------------------------------------------------------------------------------------
 \documentclass[aspectratio=169,xcolor=dvipsnames]{beamer}
-\usetheme{PlusMore}
+\usetheme{Simple}
 
 \usepackage{hyperref}
 \usepackage{graphicx} % Allows including images
@@ -12,15 +12,10 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\title[short title]{\LARGE{Title}} % The short title appears at the bottom of every slide, the full title is only on the title page
+\title[short title]{Simple Beamer Theme} % The short title appears at the bottom of every slide, the full title is only on the title page
 \subtitle{Subtitle}
 
-\author[Pin-Yen] {
-    \LARGE {Pin-Yen Huang} \\
-    \medskip
-    \footnotesize{\href{mailto:pyhuang97@gmail.com}{pyhuang97@gmail.com}} % Your email address
-    \vspace{-1ex}
-}
+\author[Pin-Yen] {Pin-Yen Huang}
 
 \institute[NTU] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
 {
@@ -30,21 +25,22 @@
 }
 \date{\today} % Date, can be changed to a custom date
 
-\begin{document}
-
-\begin{frame}
-    \titlepage % Print the title page as the first slide
-\end{frame}
-
-\begin{frame}
-    \frametitle{Overview} % Table of contents slide, comment this block out to remove it
-    \tableofcontents % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
-\end{frame}
-
 
 %----------------------------------------------------------------------------------------
 %	PRESENTATION SLIDES
 %----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\begin{frame}
+    % Print the title page as the first slide
+    \titlepage
+\end{frame}
+
+\begin{frame}{Overview}
+    % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
+    \tableofcontents
+\end{frame}
 
 %------------------------------------------------
 \section{First Section}
@@ -62,8 +58,7 @@
 
 %------------------------------------------------
 
-\begin{frame}
-    \frametitle{Blocks of Highlighted Text}
+\begin{frame}{Blocks of Highlighted Text}
     In this slide, some important text will be \alert{highlighted} because it's important. Please, don't abuse it.
 
     \begin{block}{Block}
@@ -81,8 +76,7 @@
 
 %------------------------------------------------
 
-\begin{frame}
-    \frametitle{Multiple Columns}
+\begin{frame}{Multiple Columns}
     \begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
 
         \column{.45\textwidth} % Left column and width
@@ -103,8 +97,7 @@
 \section{Second Section}
 %------------------------------------------------
 
-\begin{frame}
-    \frametitle{Table}
+\begin{frame}{Table}
     \begin{table}
         \begin{tabular}{l l l}
             \toprule
@@ -121,8 +114,7 @@
 
 %------------------------------------------------
 
-\begin{frame}
-    \frametitle{Theorem}
+\begin{frame}{Theorem}
     \begin{theorem}[Mass--energy equivalence]
         $E = mc^2$
     \end{theorem}
@@ -130,8 +122,7 @@
 
 %------------------------------------------------
 
-\begin{frame}
-    \frametitle{Figure}
+\begin{frame}{Figure}
     Uncomment the code on this slide to include your own image from the same directory as the template .TeX file.
     %\begin{figure}
     %\includegraphics[width=0.8\linewidth]{test}
@@ -149,10 +140,10 @@
 
 %------------------------------------------------
 
-\begin{frame}
-    \frametitle{References}
+\begin{frame}{References}
+    % Beamer does not support BibTeX so references must be inserted manually as below
     \footnotesize{
-        \begin{thebibliography}{99} % Beamer does not support BibTeX so references must be inserted manually as below
+        \begin{thebibliography}{99}
             \bibitem[Smith, 2012]{p1} John Smith (2012)
             \newblock Title of the publication
             \newblock \emph{Journal Name} 12(3), 45 -- 678.
