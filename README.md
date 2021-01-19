@@ -1,7 +1,6 @@
 # Simple Beamer Theme
 
-This is a simple beamer theme for academic or scientific presentation. 
-The main design concept is to keep it **clear** and **simple**.
+This is a **simple** and **clear** beamer theme for academic and scientific presentation.
 
 ## preview
 
