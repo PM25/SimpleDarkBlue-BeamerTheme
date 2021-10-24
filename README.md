@@ -1,6 +1,8 @@
 # Simple Beamer Theme
 
-This is a **simple** and **clear** beamer theme for academic and scientific presentation.
+This is a **simple** and **clear** beamer theme for academic and scientific presentation. 
+
+Also published on CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
 
 ## preview
 
