@@ -2,7 +2,8 @@
 
 This is a **simple** and **clear** beamer theme for academic and scientific presentation. 
 
-Also published on CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
+Overleaf: [https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) <br>
+CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
 
 ## preview
 
