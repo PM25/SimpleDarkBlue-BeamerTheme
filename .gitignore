@@ -284,3 +284,4 @@ TSWLatexianTemp*
 #*Notes.bib
 
 *.vrb
+.vscode/settings.json
