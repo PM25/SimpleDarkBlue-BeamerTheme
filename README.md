@@ -1,11 +1,15 @@
-# Simple Beamer Theme
+# 🫐 SimpleDarkBlue Beamer Theme
 
-This is a **simple** and **clear** beamer theme for academic and scientific presentation. 
+The SimpleDarkBlue Beamer Theme is a simple template designed for academic and scientific presentations, with dark blue as the main color.
 
-Overleaf: [https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) <br>
-CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
+You can find the SimpleDarkBlue Beamer Theme on [Overleaf](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) or [CTAN](https://ctan.org/pkg/beamertheme-simpledarkblue). The Overleaf link provides an easy-to-use web-based LaTeX editor, while the CTAN link allows you to download the template files for use in your own LaTeX environment.
 
-## preview
+* Overleaf: [https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) <br>
+* CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
+
+## Preview
+
+Here are some preview images of the SimpleDarkBlue Beamer Theme:
 
 ![page1](img/0001.webp)
 ![page2](img/0002.webp)
@@ -15,3 +19,8 @@ CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/bea
 ![page6](img/0006.webp)
 ![page9](img/0009.webp)
 ![page10](img/0010.webp)
+
+Hope that you find the SimpleDarkBlue Beamer Theme to be a useful and effective tool for your academic and scientific presentations. Please let me know if you have any feedback or suggestions for improvement.
+
+## License
+This project is licensed under the Unlicense License - see the [LICENSE](./LICENSE) file for more details.
