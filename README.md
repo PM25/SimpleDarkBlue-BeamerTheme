@@ -7,6 +7,8 @@ You can find the SimpleDarkBlue Beamer Theme on [Overleaf](https://www.overleaf.
 * Overleaf: [https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) <br>
 * CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
 
+> If you like this theme, you may also be interested in my other beamer theme, [🍃SimplePlus](https://github.com/PM25/SimplePlus-BeamerTheme).
+
 ## Preview
 
 Here are some preview images of the SimpleDarkBlue Beamer Theme:
