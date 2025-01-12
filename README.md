@@ -13,14 +13,14 @@ You can find the SimpleDarkBlue Beamer Theme on [Overleaf](https://www.overleaf.
 
 Here are some preview images of the SimpleDarkBlue Beamer Theme:
 
-![page1](preview/0001.webp)
-![page2](preview/0002.webp)
-![page3](preview/0003.webp)
-![page4](preview/0004.webp)
-![page5](preview/0005.webp)
-![page6](preview/0006.webp)
-![page9](preview/0009.webp)
-![page10](preview/0010.webp)
+![Slide 1](preview/slide-1.webp)
+![Slide 2](preview/slide-2.webp)
+![Slide 3](preview/slide-3.webp)
+![Slide 4](preview/slide-4.webp)
+![Slide 5](preview/slide-5.webp)
+![Slide 6](preview/slide-6.webp)
+![Slide 9](preview/slide-9.webp)
+![Slide 10](preview/slide-10.webp)
 
 Hope that you find the SimpleDarkBlue Beamer Theme to be a useful and effective tool for your academic and scientific presentations. Please let me know if you have any feedback or suggestions for improvement.
 
