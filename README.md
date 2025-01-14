@@ -1,17 +1,19 @@
 # 🫐 SimpleDarkBlue Beamer Theme
 
-The SimpleDarkBlue Beamer Theme is a simple template designed for academic and scientific presentations, with dark blue as the main color.
+**SimpleDarkBlue Beamer Theme** provides a simple and clean LaTeX template for creating professional presentations. Featuring dark blue as its primary color, the theme prioritizes clarity and readability, making it an excellent choice for researchers, educators, and students.
 
-You can find the SimpleDarkBlue Beamer Theme on [Overleaf](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) or [CTAN](https://ctan.org/pkg/beamertheme-simpledarkblue). The Overleaf link provides an easy-to-use web-based LaTeX editor, while the CTAN link allows you to download the template files for use in your own LaTeX environment.
+> If you like this theme, you may also be interested in my other beamer theme, [🍃SimplePlus](https://github.com/pm25/SimplePlus-BeamerTheme).
 
-* Overleaf: [https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs) <br>
-* CTAN: [https://ctan.org/pkg/beamertheme-simpledarkblue](https://ctan.org/pkg/beamertheme-simpledarkblue)
+## Links
 
-> If you like this theme, you may also be interested in my other beamer theme, [🍃SimplePlus](https://github.com/PM25/SimplePlus-BeamerTheme).
+Explore or download the SimpleDarkBlue Beamer Theme:
+
+-   **[Overleaf](https://www.overleaf.com/latex/templates/simple-beamer-theme/cyjyxkdttqzs)** – Use it instantly with a web-based LaTeX editor.
+-   **[CTAN](https://ctan.org/pkg/beamertheme-simpledarkblue)** – Download and integrate it into your local LaTeX setup.
 
 ## Preview
 
-Here are some preview images of the SimpleDarkBlue Beamer Theme:
+Below are some example slides created with the SimpleDarkBlue Beamer Theme:
 
 ![Slide 1](preview/slide-1.webp)
 ![Slide 2](preview/slide-2.webp)
@@ -22,7 +24,6 @@ Here are some preview images of the SimpleDarkBlue Beamer Theme:
 ![Slide 9](preview/slide-9.webp)
 ![Slide 10](preview/slide-10.webp)
 
-Hope that you find the SimpleDarkBlue Beamer Theme to be a useful and effective tool for your academic and scientific presentations. Please let me know if you have any feedback or suggestions for improvement.
-
 ## License
-This project is licensed under the Unlicense License - see the [LICENSE](./LICENSE) file for more details.
+
+This project is released under the **Unlicense License**, granting you complete freedom to use, modify, and distribute the template. For more details, see the [LICENSE](./LICENSE) file.
