@@ -1,6 +1,6 @@
 # 🫐 SimpleDarkBlue Beamer Theme
 
-**SimpleDarkBlue Beamer Theme** provides a simple and clean LaTeX template for creating professional presentations. Featuring dark blue as its primary color, the theme prioritizes clarity and readability, making it an excellent choice for researchers, educators, and students.
+**SimpleDarkBlue Beamer Theme** provides a simple and clear LaTeX template for creating professional presentations. Featuring dark blue as its primary color, the theme prioritizes clarity and readability, making it an excellent choice for researchers, educators, and students.
 
 > If you like this theme, you may also be interested in my other beamer theme, [🍃SimplePlus](https://github.com/pm25/SimplePlus-BeamerTheme).
 
